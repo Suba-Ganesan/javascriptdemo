@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "../htmlcss"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "javascriptdemo"
+  }
+}
